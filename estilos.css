@@ -32,7 +32,7 @@ h3{
 .texto{
     margin-bottom: 20px;
     color: #582d09;
-    font-size: 16.5px;
+    font-size: 18.5px;
     padding: 0 10px;
 }
 
@@ -220,7 +220,7 @@ header{
     padding: 10px;
     border: 0px solid #fff;
     border-radius: 10px;
-    margin-bottom: 1rem;
+    margin: 1.5rem 0 1rem 0;
 
     -webkit-box-shadow: 0px 3px 8px 4px rgba(72, 37, 7, 0.7);
     -moz-box-shadow: 0px 3px 8px 4px rgba(72, 37, 7, 0.7);
@@ -290,7 +290,7 @@ header{
 .text_conteo{
     margin-top: 20px;
     text-align: center;
-    color: #121fd6;
+    color: #070e66;
     font-weight: bold;
     font-size: 15px;
 }
