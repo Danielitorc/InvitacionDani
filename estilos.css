@@ -13,6 +13,9 @@ body{
     text-align: center;
 }
 
+.gif{
+    max-width: 95%;
+}
 .contenedor{
     width: 95%;
     max-width: 1100px;
@@ -50,7 +53,7 @@ header{
 }
 
 .nav{
-    width: 85%;
+    width: 100%;
     padding: 15px 10px;
     text-align: center;
     align-items: center;
@@ -164,12 +167,6 @@ header{
     object-fit: cover;
 }
 
-
-audio{
-    width: 100%;
-    outline: none;
-    border-radius: 10px;
-}
 
 
 /*** Contenido ***/
