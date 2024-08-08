@@ -61,6 +61,7 @@ header{
     position: fixed;
 }
 
+
 .nav.active{
     background-image: linear-gradient(to bottom, #534629, #615636, #706644, #7e7752, #8c8961, #8c8a63, #8b8a64, #8b8b66, #7c7b5a, #6d6b4e, #5e5b43, #4f4c38);
     padding: 8px;
